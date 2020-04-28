@@ -18,10 +18,12 @@ import java.util.*;
 
 @SpringBootTest
 class Mpdemo1ApplicationTests {
+	
+	
 
 
 	@Autowired
-	private UserMapper userMapper;  //报错是因为usermapper没有在spring  需要在将其交给spring容器管理
+	private UserMapper userMapper;  //报错是因为usermapper没有在spring  需要在将其交给spring容器管理  测试
 
 
 	@Autowired
