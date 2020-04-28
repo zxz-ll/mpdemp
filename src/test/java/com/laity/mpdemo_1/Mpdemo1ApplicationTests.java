@@ -232,7 +232,7 @@ class Mpdemo1ApplicationTests {
 		int i = userMapper.deleteById("1251710819180236801");
 		System.out.println(i);
 	}
-
+//测试添加swagger
 
 
 	/**
